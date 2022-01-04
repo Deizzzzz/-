@@ -1,2 +1,6 @@
 这是3
 我在dev 上面加了一些功能
+
+git pull origin dev 等价于： git fetch origin dev  和 git merge origin/dev
+
+代码书写软件： typora
